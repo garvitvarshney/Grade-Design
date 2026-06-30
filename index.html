@@ -1212,7 +1212,7 @@ document.getElementById('col-dl').addEventListener('click',()=>{dlCanvas(documen
 // ═══════════════════════════ PWA ══════════════════════════════
 if('serviceWorker' in navigator){
   window.addEventListener('load',()=>{
-    navigator.serviceWorker.register('sw.js').catch(()=>{});
+    navigator.serviceWorker.register('/Grade-Design/sw.js').catch(()=>{});
   });
 }
 

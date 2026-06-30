@@ -2,7 +2,7 @@
   "name": "Grade-Design",
   "short_name": "Grade-Design",
   "description": "Cinematic photo grading, text overlays, and Pinterest-style collage maker with EXIF location grouping",
-  "start_url": "/",
+  "start_url": "/Grade-Design/",
   "display": "standalone",
   "background_color": "#0A0A0A",
   "theme_color": "#0A0A0A",
